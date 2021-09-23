@@ -1,0 +1,1418 @@
+﻿Log file open, 09/22/21 21:25:18
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: InfiniteMatrix
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.442980
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/jjjkr/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 1660 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Engine.ini]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Engine.ini]
+[2021.09.23-02.25.18:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Engine.ini]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Engine.ini]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.23-02.25.18:738][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Engine.ini]
+[2021.09.23-02.25.18:738][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Engine.ini]
+[2021.09.23-02.25.18:748][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.23-02.25.18:748][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.23-02.25.18:749][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.23-02.25.18:749][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.23-02.25.18:749][  0]LogHAL: Display: Platform has ~ 16 GB [17095184384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.23-02.25.18:749][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.23-02.25.18:749][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.23-02.25.18:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Scalability.ini]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.23-02.25.18:750][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.23-02.25.18:751][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.23-02.25.18:751][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.23-02.25.18:751][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.23-02.25.18:751][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Engine.ini]
+[2021.09.23-02.25.18:751][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Config/Windows/Editor.ini]
+[2021.09.23-02.25.18:751][  0]LogInit: Computer: LAPTOP-UNQD146O
+[2021.09.23-02.25.18:751][  0]LogInit: User: jjjkr
+[2021.09.23-02.25.18:751][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.09.23-02.25.18:751][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.23-02.25.18:751][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.09.23-02.25.18:751][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.23-02.25.18:751][  0]LogMemory: Process Physical Memory: 138.88 MB used, 138.89 MB peak
+[2021.09.23-02.25.18:751][  0]LogMemory: Process Virtual Memory: 119.94 MB used, 119.94 MB peak
+[2021.09.23-02.25.18:751][  0]LogMemory: Physical Memory: 6300.39 MB used,  10002.85 MB free, 16303.24 MB total
+[2021.09.23-02.25.18:751][  0]LogMemory: Virtual Memory: 134208336.00 MB used,  9394.93 MB free, 134217728.00 MB total
+[2021.09.23-02.25.18:760][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.23-02.25.18:897][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.23-02.25.18:898][  0]LogInit: Using OS detected language (en-US).
+[2021.09.23-02.25.18:898][  0]LogInit: Using OS detected locale (en-US).
+[2021.09.23-02.25.18:904][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.09.23-02.25.19:056][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.23-02.25.19:157][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.23-02.25.19:196][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.23-02.25.19:196][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.23-02.25.19:330][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.23-02.25.19:330][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.23-02.25.19:330][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.23-02.25.19:330][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.23-02.25.19:448][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2021.09.23-02.25.19:448][  0]LogD3D11RHI:       5991/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.09.23-02.25.19:517][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.23-02.25.19:517][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.23-02.25.19:587][  0]LogD3D11RHI:    2. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2021.09.23-02.25.19:587][  0]LogD3D11RHI:       5991/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2021.09.23-02.25.19:587][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.23-02.25.19:594][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.23-02.25.19:594][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2021.09.23-02.25.19:594][  0]LogWindows: EnumDisplayDevices:
+[2021.09.23-02.25.19:594][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2021.09.23-02.25.19:595][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.09.23-02.25.19:595][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.09.23-02.25.19:595][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2021.09.23-02.25.19:596][  0]LogWindows:    4. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.09.23-02.25.19:596][  0]LogWindows:    5. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.09.23-02.25.19:596][  0]LogWindows:    6. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.09.23-02.25.19:597][  0]LogWindows:    7. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.09.23-02.25.19:597][  0]LogWindows:    8. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.09.23-02.25.19:598][  0]LogWindows:    9. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.09.23-02.25.19:598][  0]LogWindows:    10. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.09.23-02.25.19:599][  0]LogWindows:    11. 'Citrix Indirect Display Adapter' (P:0 D:0)
+[2021.09.23-02.25.19:599][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.09.23-02.25.19:599][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2021.09.23-02.25.19:599][  0]LogD3D11RHI:   Driver Version: 457.49 (internal:27.21.14.5749, unified:457.49)
+[2021.09.23-02.25.19:599][  0]LogD3D11RHI:      Driver Date: 11-20-2020
+[2021.09.23-02.25.19:599][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.09.23-02.25.19:665][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.09.23-02.25.19:665][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.23-02.25.19:665][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.09.23-02.25.19:682][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.23-02.25.19:700][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.09.23-02.25.20:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.23-02.25.20:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.23-02.25.20:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.23-02.25.20:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.23-02.25.20:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.23-02.25.20:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.23-02.25.20:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.23-02.25.20:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.23-02.25.20:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.23-02.25.20:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.23-02.25.20:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.23-02.25.20:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.23-02.25.20:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.23-02.25.20:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.09.23-02.25.20:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.09.23-02.25.20:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.09.23-02.25.20:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.09.23-02.25.20:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.23-02.25.20:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.23-02.25.20:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.23-02.25.20:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.23-02.25.20:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.23-02.25.20:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.23-02.25.20:496][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.23-02.25.20:505][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.23-02.25.20:577][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.09.23-02.25.20:577][  0]LogShaderCompilers: Guid format shader working directory is -47 characters bigger than the processId version (../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Intermediate/Shaders/WorkingDirectory/29944/).
+[2021.09.23-02.25.20:577][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jjjkr/AppData/Local/Temp/UnrealShaderWorkingDir/025F3A55486DB1714BEAE9908AB30163/'.
+[2021.09.23-02.25.20:577][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.23-02.25.20:577][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.23-02.25.21:255][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.23-02.25.21:297][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/jjjkr/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.23-02.25.21:297][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jjjkr/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.09.23-02.25.21:297][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.23-02.25.21:297][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.23-02.25.21:297][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.23-02.25.21:297][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.23-02.25.21:307][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.23-02.25.21:307][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.23-02.25.21:307][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.23-02.25.21:317][  0]LogDerivedDataCache: Speed tests for C:/Users/jjjkr/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.09.23-02.25.21:317][  0]LogDerivedDataCache: Display: Performance to C:/Users/jjjkr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=1294.65MBs, RandomWriteSpeed=114.74MBs. Assigned SpeedClass 'Local'
+[2021.09.23-02.25.21:317][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jjjkr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.23-02.25.21:317][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.23-02.25.21:317][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.23-02.25.21:361][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.23-02.25.21:362][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.23-02.25.21:387][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.09.23-02.25.21:620][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.23-02.25.21:620][  0]LogInit: Active device profile: [0000016C26E0DD00][0000016C28495180 49] Windows
+[2021.09.23-02.25.21:620][  0]LogInit: Profiles: [0000016C26E0DD00][0000016C28495180 49] Windows, [0000016C26E76E00][0000016C25F45300 49] WindowsNoEditor, [0000016C26E0CD00][0000016C25F49480 49] WindowsServer, [0000016C26E77A00][0000016C284995C0 49] WindowsClient, [0000016C26E0EA00][0000016C25F4D700 49] IOS, [0000016C26E76200][0000016C25F51840 49] iPadAir, [0000016C26E0ED00][0000016C25F55980 49] iPadAir2, [0000016C26DBF000][0000016C25F67C40 49] IPadPro, [0000016C26DBF100][0000016C25F5DC80 49] iPadAir3, [0000016C26E0D500][0000016C25F70140 49] iPadAir4, [0000016C26DBE800][0000016C25F742C0 49] iPadMini2, [0000016C26E0F200][0000016C25F78440 49] iPadMini3, [0000016C26DBD600][0000016C25F7C5C0 49] iPadMini4, [0000016C26E0D200][0000016C25F80740 49] iPadMini5, [0000016C26EEA900][0000016C25F88A00 49] iPhone6, [0000016C26EEAA00][0000016C25F84A40 49] iPodTouch6, [0000016C26DBF600][0000016C25F90D00 49] iPhone7, [0000016C26DBF700][0000016C25F8CD40 49] iPodTouch7, [0000016C26EEA700][0000016C25F94EC0 49] iPhone5S, [0000016C26DBC100][0000016C280AB040 49] iPhone6Plus, [0000016C26EE9400][0000016C280AF1C0 49] iPhone6S, [0000016C26DBC700][0000016C280B3340 49] iPhone6SPlus, [0000016C26EE8200][0000016C280B74C0 49] iPhone7Plus, [0000016C26DBE600][0000016C280BB640 49] iPhoneSE, [0000016C26EEB000][0000016C25F59780 49] iPhone8, [0000016C26DBFF00][0000016C280BF8C0 49] iPhone8Plus, [0000016C26EE9C00][0000016C280C3A00 49] iPhoneX, [0000016C26DBE300][0000016C280CBB80 49] iPhoneXS, [0000016C26EE8400][0000016C280CFD00 49] iPhoneXSMax, [0000016C26DBFC00][0000016C280D21C0 49] iPhoneXR, [0000016C26EEBE00][0000016C280D6340 49] iPhone11, [0000016C26DBE000][0000016C280DA4C0 49] iPhone11Pro, [0000016C26EEB500][0000016C280DE640 49] iPhone11ProMax, [0000016C26DBEC00][0000016C280E27C0 49] iPhoneSE2, [0000016C26EEB700][0000016C280E6940 49] iPhone12Mini, [0000016C26DBCB00][0000016C280EAAC0 49] iPhone12, [0000016C26EEA300][0000016C280EEC40 49] iPhone12Pro, [0000016C26DBF400][0000016C280F2DC0 49] iPhone12ProMax, [0000016C26DBE900][0000016C280F6F40 49] iPadPro105, [0000016C26E75B00][0000016C280FB0C0 49] iPadPro129, [0000016C26DBCF00][0000016C280FF240 49] iPadPro97, [0000016C26E76700][0000016C281033C0 49] iPadPro2_129, [0000016C26DBF900][0000016C28107540 49] iPad5, [0000016C26E76400][0000016C2810B6C0 49] iPad6, [0000016C26DBED00][0000016C280C7800 49] iPad7, [0000016C26E76F00][0000016C2810F940 49] iPad8, [0000016C26E74C00][0000016C28113A80 49] iPadPro11, [0000016C26EEBD00][0000016C2811BC00 49] iPadPro2_11, [0000016C26E75100][0000016C28F5A0C0 49] iPadPro3_129, [0000016C26EE8B00][0000016C28F5E240 49] iPadPro4_129, [0000016C26E76C00][0000016C28F623C0 49] AppleTV, [0000016C26EE9000][0000016C28F66540 49] AppleTV4K, [0000016C26E74600][0000016C28F6A6C0 49] TVOS, [0000016C26EEBF00][0000016C28F6E840 49] Mac, [0000016C26E74200][0000016C28F729C0 49] MacClient, [0000016C26DBC800][0000016C28F76B40 49] MacNoEditor, [0000016C26E77300][0000016C28F7ACC0 49] MacServer, [0000016C26DBC200][0000016C28F7EE40 49] Linux, [0000016C26E75600][0000016C28F82FC0 49] LinuxAArch64, [0000016C26DBEA00][0000016C28F87140 49] LinuxNoEditor, [0000016C26E75C00][0000016C28F8B2C0 49] LinuxAArch64NoEditor, [0000016C26DBFE00][0000016C28F8F440 49] LinuxClient, [0000016C26E74B00][0000016C28F935C0 49] LinuxAArch64Client, [0000016C26DBFB00][0000016C28F97740 49] LinuxServer, [0000016C26E74800][0000016C28117880 49] LinuxAArch64Server, [0000016C26DBF500][0000016C28F9B9C0 49] Android, [0000016C26E77200][0000016C28F9FB00 49] Android_Low, [0000016C26DBE700][0000016C28FA3C40 49] Android_Mid, [0000016C26E77900][0000016C28FAA100 49] Android_High, [0000016C26DBEF00][0000016C28FAE280 49] Android_Default, [0000016C26E75A00][0000016C28FB2400 49] Android_Adreno4xx, [0000016C26DBD200][0000016C28FB6580 49] Android_Adreno5xx_Low, [0000016C26E74D00][0000016C28FBA700 49] Android_Adreno5xx, [0000016C26DBCD00][0000016C28FBE880 49] Android_Adreno6xx, [0000016C26E74700][0000016C28FC2A00 49] Android_Adreno6xx_Vulkan, [0000016C26DBC300][0000016C28FC6B80 49] Android_Mali_T6xx, [0000016C26E74500][0000016C28FCAD00 49] Android_Mali_T7xx, [0000016C26DBD400][0000016C28FCEE80 49] Android_Mali_T8xx, [0000016C26E75F00][0000016C28FD3000 49] Android_Mali_G71, [0000016C26DBD900][0000016C28FD7180 49] Android_Mali_G72, [0000016C26E74100][0000016C28FDB300 49] Android_Mali_G72_Vulkan, [0000016C26DBE400][0000016C28FDF480 49] Android_Mali_G76, [0000016C26E75D00][0000016C28FE3600 49] Android_Mali_G76_Vulkan, [0000016C26DBCA00][0000016C28FE7780 49] Android_Mali_G77, [0000016C26E76300][0000016C28FA78C0 49] Android_Mali_G77_Vulkan, [0000016C26DBEB00][0000016C28FEBA00 49] Android_Vulkan_SM5, [0000016C26E74F00][0000016C28FEFB40 49] Android_PowerVR_G6xxx, [0000016C26DBD800][0000016C28FF3C80 49] Android_PowerVR_GT7xxx, [0000016C26E75300][0000016C28FFA140 49] Android_PowerVR_GE8xxx, [0000016C26DBDE00][0000016C28FFE2C0 49] Android_PowerVR_GM9xxx, [0000016C26E76A00][0000016C29002440 49] Android_PowerVR_GM9xxx_Vulkan, [0000016C26DBD000][0000016C290065C0 49] Android_TegraK1, [0000016C26E77100][0000016C2900A740 49] Android_Unknown_Vulkan, [0000016C26EEA200][0000016C2900E8C0 49] Lumin, [0000016C26E0C200][0000016C29012A40 49] Lumin_Desktop, [0000016C26EEB300][0000016C29016BC0 49] HoloLens, 
+[2021.09.23-02.25.21:731][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.23-02.25.21:731][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.23-02.25.21:731][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.23-02.25.21:731][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.23-02.25.21:731][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.23-02.25.21:746][  0]LogNetVersion: InfiniteMatrix 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3255104739)
+[2021.09.23-02.25.22:172][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.09.23-02.25.22:209][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.037191 seconds
+[2021.09.23-02.25.22:216][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.09.23-02.25.22:216][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.09.23-02.25.22:216][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.23-02.25.22:600][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.23-02.25.22:605][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.23-02.25.22:689][  0]SourceControl: Source control is disabled
+[2021.09.23-02.25.22:689][  0]SourceControl: Source control is disabled
+[2021.09.23-02.25.22:694][  0]SourceControl: Source control is disabled
+[2021.09.23-02.25.22:699][  0]SourceControl: Source control is disabled
+[2021.09.23-02.25.22:716][  0]SourceControl: Source control is disabled
+[2021.09.23-02.25.22:723][  0]LogUProjectInfo: Found projects:
+[2021.09.23-02.25.22:728][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.23-02.25.22:729][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.23-02.25.22:966][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.23-02.25.22:987][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.23-02.25.22:987][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.23-02.25.23:037][  0]LogCollectionManager: Loaded 0 collections in 0.001347 seconds
+[2021.09.23-02.25.23:059][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/Collections/' took 0.00s
+[2021.09.23-02.25.23:059][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/Developers/jjjkr/Collections/' took 0.00s
+[2021.09.23-02.25.23:059][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/Collections/' took 0.00s
+[2021.09.23-02.25.23:059][  0]LogOcInput: OculusInput pre-init called
+[2021.09.23-02.25.23:071][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.23-02.25.23:071][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.09.23-02.25.23:113][  0]LogEngine: Initializing Engine...
+[2021.09.23-02.25.23:114][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.23-02.25.23:114][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.23-02.25.23:115][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.23-02.25.23:210][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.23-02.25.23:217][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.23-02.25.23:233][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.09.23-02.25.23:237][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.09.23-02.25.23:237][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.09.23-02.25.23:237][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.23-02.25.23:237][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.23-02.25.23:237][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.23-02.25.23:237][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.23-02.25.23:237][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.23-02.25.23:237][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.23-02.25.23:237][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.23-02.25.23:237][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.23-02.25.23:237][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.23-02.25.23:237][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.23-02.25.23:267][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.23-02.25.23:267][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.23-02.25.23:267][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.23-02.25.23:267][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.23-02.25.23:267][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.09.23-02.25.23:267][  0]LogAudioMixer: Display: 5: BackRight
+[2021.09.23-02.25.23:267][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.09.23-02.25.23:267][  0]LogAudioMixer: Display: 7: SideRight
+[2021.09.23-02.25.23:500][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VOID RGB Wireless Gaming Headset)
+[2021.09.23-02.25.23:502][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.23-02.25.23:502][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.23-02.25.23:502][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.23-02.25.23:503][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.23-02.25.23:503][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.23-02.25.23:503][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.23-02.25.23:510][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.23-02.25.23:510][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.23-02.25.23:510][  0]LogInit: FAudioDevice initialized.
+[2021.09.23-02.25.23:511][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.23-02.25.23:511][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.23-02.25.23:561][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/jjjkr/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.23-02.25.23:562][  0]LogInit: Texture streaming: Enabled
+[2021.09.23-02.25.23:575][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.09.23-02.25.23:580][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.23-02.25.23:580][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.23-02.25.23:584][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.23-02.25.23:613][  0]LogInit: Transaction tracking system initialized
+[2021.09.23-02.25.23:636][  0]BlueprintLog: New page: Editor Load
+[2021.09.23-02.25.23:710][  0]LocalizationService: Localization service is disabled
+[2021.09.23-02.25.23:734][  0]TimingProfiler: Initialize
+[2021.09.23-02.25.23:735][  0]TimingProfiler: OnSessionChanged
+[2021.09.23-02.25.23:735][  0]LoadingProfiler: Initialize
+[2021.09.23-02.25.23:735][  0]LoadingProfiler: OnSessionChanged
+[2021.09.23-02.25.23:735][  0]NetworkingProfiler: Initialize
+[2021.09.23-02.25.23:735][  0]NetworkingProfiler: OnSessionChanged
+[2021.09.23-02.25.23:735][  0]MemoryProfiler: Initialize
+[2021.09.23-02.25.23:735][  0]MemoryProfiler: OnSessionChanged
+[2021.09.23-02.25.23:789][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.23-02.25.23:789][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.09.23-02.25.23:858][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.23-02.25.23:858][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.23-02.25.24:008][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/' took 0.00s
+[2021.09.23-02.25.24:187][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.23-02.25.24:190][  0]SourceControl: Source control is disabled
+[2021.09.23-02.25.24:191][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.988
+[2021.09.23-02.25.24:191][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.23-02.25.24:191][  0]LightingResults: New page: Lighting Build
+[2021.09.23-02.25.24:191][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.23-02.25.24:192][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.25.24:192][  0]MapCheck: New page: Map Check
+[2021.09.23-02.25.24:192][  0]LightingResults: New page: Lighting Build
+[2021.09.23-02.25.24:198][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.23-02.25.24:266][  0]LogTexture: Display: Building textures: T_Restart (AutoDXT, 512X512)
+[2021.09.23-02.25.24:266][  0]LogMaterial: Display: Missing cached shader map for material M_HoleBase, compiling. 
+[2021.09.23-02.25.24:277][  0]LogStaticMesh: Building static mesh SM_Hole_01...
+[2021.09.23-02.25.24:281][  0]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/SM_Hole_01.SM_Hole_01
+[2021.09.23-02.25.24:285][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.09.23-02.25.24:285][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.09.23-02.25.24:285][  0]LogStaticMesh: Building static mesh SM_Hole_04...
+[2021.09.23-02.25.24:288][  0]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/SM_Hole_04.SM_Hole_04
+[2021.09.23-02.25.24:292][  0]LogStaticMesh: Building static mesh SM_Hole_03...
+[2021.09.23-02.25.24:296][  0]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/SM_Hole_03.SM_Hole_03
+[2021.09.23-02.25.24:301][  0]LogStaticMesh: Building static mesh SM_Hole_02...
+[2021.09.23-02.25.24:305][  0]LogStaticMesh: Built static mesh [0.00s] /Game/InfiniteMatrix/Meshes/SM_Hole_02.SM_Hole_02
+[2021.09.23-02.25.24:308][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialMap'.
+[2021.09.23-02.25.24:309][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.23-02.25.24:313][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.23-02.25.24:320][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.09.23-02.25.24:320][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.23-02.25.24:320][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2021.09.23-02.25.24:320][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.129
+[2021.09.23-02.25.24:322][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.119
+[2021.09.23-02.25.24:459][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.23-02.25.24:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.23-02.25.24:470][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.23-02.25.24:475][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.23-02.25.24:493][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 3601 classes and 859 folders.
+[2021.09.23-02.25.24:495][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.23-02.25.24:497][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.23-02.25.24:497][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:497][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.23-02.25.24:497][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.09.23-02.25.24:498][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.23-02.25.24:498][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:498][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.23-02.25.24:498][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.09.23-02.25.24:499][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.09.23-02.25.24:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.09.23-02.25.24:499][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.09.23-02.25.24:500][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.23-02.25.24:500][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:500][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.23-02.25.24:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.09.23-02.25.24:501][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.23-02.25.24:501][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:501][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.23-02.25.24:501][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.09.23-02.25.24:502][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.23-02.25.24:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.23-02.25.24:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.09.23-02.25.24:503][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.23-02.25.24:503][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:503][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.23-02.25.24:503][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.09.23-02.25.24:504][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.23-02.25.24:504][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:504][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.23-02.25.24:504][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.09.23-02.25.24:505][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.23-02.25.24:505][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:505][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.23-02.25.24:505][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.09.23-02.25.24:506][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.23-02.25.24:506][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:506][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.23-02.25.24:506][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.09.23-02.25.24:507][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.23-02.25.24:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.23-02.25.24:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.09.23-02.25.24:508][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.23-02.25.24:508][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:508][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.23-02.25.24:508][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.09.23-02.25.24:509][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.23-02.25.24:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.23-02.25.24:509][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.09.23-02.25.24:510][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.23-02.25.24:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.23-02.25.24:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.09.23-02.25.24:511][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.23-02.25.24:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.23-02.25.24:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.09.23-02.25.24:512][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.23-02.25.24:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.23-02.25.24:512][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.09.23-02.25.24:513][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.23-02.25.24:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.23-02.25.24:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.09.23-02.25.24:514][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.23-02.25.24:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.23-02.25.24:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.09.23-02.25.24:515][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.23-02.25.24:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.23-02.25.24:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.09.23-02.25.24:516][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.23-02.25.24:516][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:516][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.23-02.25.24:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.09.23-02.25.24:516][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.23-02.25.24:517][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:517][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.23-02.25.24:517][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.09.23-02.25.24:517][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.23-02.25.24:517][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:517][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.23-02.25.24:517][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.09.23-02.25.24:518][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.09.23-02.25.24:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.09.23-02.25.24:518][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.09.23-02.25.24:518][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.23-02.25.24:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.23-02.25.24:518][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.09.23-02.25.24:519][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.23-02.25.24:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.23-02.25.24:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.09.23-02.25.24:519][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.23-02.25.24:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.23-02.25.24:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.23-02.25.24:519][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.09.23-02.25.24:578][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.23-02.25.24:579][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.09.23-02.25.24:611][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.23-02.25.24:613][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.23-02.25.24:618][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.23-02.25.24:711][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.09.23-02.25.25:028][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.23-02.25.25:028][  0]LogLoad: (Engine Initialization) Total time: 7.83 seconds
+[2021.09.23-02.25.25:028][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.23-02.25.25:028][  0]LogInit: First time updating LLM stats...
+[2021.09.23-02.25.25:070][  0]LogAssetRegistry: Asset discovery search completed in 3.6835 seconds
+[2021.09.23-02.25.25:071][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.09.23-02.25.25:090][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.23-02.25.25:157][  2]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.23-02.25.30:454][307]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.23-02.25.30:459][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.23-02.25.30:459][307]PIE: New page: PIE session: TutorialMap (Sep 22, 2021, 4:25:30 PM)
+[2021.09.23-02.25.30:460][307]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.23-02.25.30:460][307]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.23-02.25.30:460][307]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.23-02.25.30:462][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001204s)
+[2021.09.23-02.25.30:462][307]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.23-02.25.30:463][307]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2021.09.23-02.25.30:463][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002070s)
+[2021.09.23-02.25.30:467][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.09.23-02.25.30:468][307]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.23-02.25.30:468][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.23-02.25.30:468][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.23-02.25.30:468][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.23-02.25.30:468][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.23-02.25.30:468][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.23-02.25.30:468][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.23-02.25.30:468][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.23-02.25.30:468][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.23-02.25.30:468][307]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.23-02.25.30:468][307]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.23-02.25.30:471][307]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.23-02.25.30:471][307]LogAudioMixer: Display: 1: FrontRight
+[2021.09.23-02.25.30:471][307]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.23-02.25.30:471][307]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.23-02.25.30:471][307]LogAudioMixer: Display: 4: BackLeft
+[2021.09.23-02.25.30:471][307]LogAudioMixer: Display: 5: BackRight
+[2021.09.23-02.25.30:471][307]LogAudioMixer: Display: 6: SideLeft
+[2021.09.23-02.25.30:471][307]LogAudioMixer: Display: 7: SideRight
+[2021.09.23-02.25.30:609][307]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VOID RGB Wireless Gaming Headset)
+[2021.09.23-02.25.30:609][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.23-02.25.30:609][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.23-02.25.30:609][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.23-02.25.30:609][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.23-02.25.30:609][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.23-02.25.30:609][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.23-02.25.30:610][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.23-02.25.30:610][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.23-02.25.30:610][307]LogInit: FAudioDevice initialized.
+[2021.09.23-02.25.30:610][307]LogAudio: Display: Audio Device (ID: 2) registered with world 'TutorialMap'.
+[2021.09.23-02.25.30:630][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.23-02.25.30:630][307]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.23-02.25.30:632][307]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2021.09.22-21.25.30
+[2021.09.23-02.25.30:633][307]LogWorld: Bringing up level for play took: 0.000608
+[2021.09.23-02.25.30:633][307]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.09.23-02.25.30:636][307]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.23-02.25.30:640][307]PIE: Server logged in
+[2021.09.23-02.25.30:641][307]PIE: Play in editor total start time 0.184 seconds.
+[2021.09.23-02.25.30:683][308]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.09.23-02.25.31:663][362]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.25.31:663][362]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.23-02.25.32:156][392]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.25.32:156][392]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.25.33:357][464]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.25.33:357][464]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.25.33:973][501]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.25.33:973][501]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.26.11:450][748]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.26.11:450][748]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.26.12:828][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.23-02.26.12:828][828]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.23-02.26.12:828][828]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.23-02.26.12:836][828]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.23-02.26.12:836][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.26.12:845][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.23-02.26.12:846][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.26.12:850][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.23-02.26.12:850][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.23-02.26.12:851][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.23-02.26.12:868][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.09.23-02.26.12:958][830]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.09.23-02.26.14:579][927]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.23-02.26.14:590][927]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.23-02.26.14:739][927]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.09.23-02.26.15:539][927]LogSlate: Took 0.000568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.23-02.26.30:147][792]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.23-02.26.30:156][792]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.23-02.26.30:157][792]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.09.23-02.26.30:157][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.26.31:234][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.23-02.26.37:120][185]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.23-02.26.46:492][744]LogSavePackage: Moving '../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/BP_Player1C3EF4A74CAF2E8D12B7A5B6521FD0C7.tmp' to '../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.23-02.26.46:506][744]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.23-02.26.46:506][744]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.23-02.26.47:502][804]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.23-02.26.47:508][804]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.23-02.26.47:510][804]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.09.23-02.26.47:510][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.26.48:348][852]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.23-02.26.48:353][852]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.23-02.26.48:355][852]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2021.09.23-02.26.48:382][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.09.23-02.26.48:382][852]LogPlayLevel: PlayLevel: Blueprint regeneration took 28 ms (1 blueprints)
+[2021.09.23-02.26.48:382][852]PIE: New page: PIE session: TutorialMap (Sep 22, 2021, 4:26:48 PM)
+[2021.09.23-02.26.48:383][852]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.23-02.26.48:384][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001183s)
+[2021.09.23-02.26.48:385][852]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.23-02.26.48:385][852]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2021.09.23-02.26.48:385][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002032s)
+[2021.09.23-02.26.48:399][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.09.23-02.26.48:399][852]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.23-02.26.48:399][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.23-02.26.48:399][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.23-02.26.48:399][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.23-02.26.48:399][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.23-02.26.48:399][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.23-02.26.48:399][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.23-02.26.48:399][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.23-02.26.48:399][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.23-02.26.48:400][852]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.23-02.26.48:400][852]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.23-02.26.48:403][852]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.23-02.26.48:403][852]LogAudioMixer: Display: 1: FrontRight
+[2021.09.23-02.26.48:403][852]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.23-02.26.48:403][852]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.23-02.26.48:403][852]LogAudioMixer: Display: 4: BackLeft
+[2021.09.23-02.26.48:403][852]LogAudioMixer: Display: 5: BackRight
+[2021.09.23-02.26.48:403][852]LogAudioMixer: Display: 6: SideLeft
+[2021.09.23-02.26.48:403][852]LogAudioMixer: Display: 7: SideRight
+[2021.09.23-02.26.48:534][852]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VOID RGB Wireless Gaming Headset)
+[2021.09.23-02.26.48:534][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.23-02.26.48:534][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.23-02.26.48:534][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.23-02.26.48:534][852]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.23-02.26.48:534][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.23-02.26.48:534][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.23-02.26.48:548][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.23-02.26.48:548][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.23-02.26.48:548][852]LogInit: FAudioDevice initialized.
+[2021.09.23-02.26.48:548][852]LogAudio: Display: Audio Device (ID: 3) registered with world 'TutorialMap'.
+[2021.09.23-02.26.48:571][852]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.23-02.26.48:572][852]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.23-02.26.48:573][852]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2021.09.22-21.26.48
+[2021.09.23-02.26.48:573][852]LogWorld: Bringing up level for play took: 0.000460
+[2021.09.23-02.26.48:573][852]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.09.23-02.26.48:577][852]PIE: Server logged in
+[2021.09.23-02.26.48:578][852]PIE: Play in editor total start time 0.227 seconds.
+[2021.09.23-02.26.49:581][911]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.26.49:582][911]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.23-02.26.50:564][970]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.26.50:564][970]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.26.51:164][  6]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.26.51:164][  6]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.26.51:698][ 38]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.26.51:698][ 38]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.26.58:553][449]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.26.58:553][449]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.26.59:203][488]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.26.59:203][488]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.12:310][273]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.12:310][273]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.12:993][314]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.12:993][314]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.13:597][350]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.13:597][350]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.14:545][407]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.14:545][407]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.18:263][630]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.18:263][630]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.18:829][664]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.18:829][664]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.19:430][700]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.19:430][700]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.19:945][731]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.19:946][731]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.24:291][991]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.24:291][991]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.24:873][ 26]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.24:873][ 26]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.38:610][849]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.38:610][849]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.39:608][909]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.39:608][909]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.42:076][ 57]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.42:076][ 57]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.42:592][ 88]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.42:592][ 88]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.43:193][124]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.43:193][124]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.43:641][151]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.43:642][151]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.44:243][187]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.44:243][187]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.44:676][213]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.44:676][213]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.45:892][286]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.45:892][286]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.46:442][319]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.27.46:442][319]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.27.56:409][917]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.27.56:410][917]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.27.58:168][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.23-02.27.58:168][ 20]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.23-02.27.58:168][ 20]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.23-02.27.58:174][ 20]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.23-02.27.58:175][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.27.58:181][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.23-02.27.58:185][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.27.58:199][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.23-02.27.58:200][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.23-02.27.58:218][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.09.23-02.27.58:229][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.09.23-02.27.59:922][120]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.23-02.28.12:255][837]LogSavePackage: Moving '../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/BP_PlayerAF5601B64C56BBBD5DCEB4B2985D1884.tmp' to '../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.23-02.28.12:269][837]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.23-02.28.12:269][837]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.23-02.28.12:809][870]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.23-02.28.12:816][870]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.23-02.28.12:818][870]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.23-02.28.12:818][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.28.14:105][944]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.23-02.28.14:111][944]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.23-02.28.14:112][944]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2021.09.23-02.28.14:135][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.09.23-02.28.14:135][944]LogPlayLevel: PlayLevel: Blueprint regeneration took 24 ms (1 blueprints)
+[2021.09.23-02.28.14:136][944]PIE: New page: PIE session: TutorialMap (Sep 22, 2021, 4:28:14 PM)
+[2021.09.23-02.28.14:136][944]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.23-02.28.14:137][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001395s)
+[2021.09.23-02.28.14:138][944]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.23-02.28.14:138][944]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2021.09.23-02.28.14:138][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002257s)
+[2021.09.23-02.28.14:152][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.09.23-02.28.14:152][944]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.23-02.28.14:152][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.23-02.28.14:152][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.23-02.28.14:152][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.23-02.28.14:152][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.23-02.28.14:152][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.23-02.28.14:152][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.23-02.28.14:152][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.23-02.28.14:153][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.23-02.28.14:153][944]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.23-02.28.14:153][944]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.23-02.28.14:156][944]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.23-02.28.14:156][944]LogAudioMixer: Display: 1: FrontRight
+[2021.09.23-02.28.14:156][944]LogAudioMixer: Display: 2: FrontCenter
+[2021.09.23-02.28.14:156][944]LogAudioMixer: Display: 3: LowFrequency
+[2021.09.23-02.28.14:156][944]LogAudioMixer: Display: 4: BackLeft
+[2021.09.23-02.28.14:156][944]LogAudioMixer: Display: 5: BackRight
+[2021.09.23-02.28.14:156][944]LogAudioMixer: Display: 6: SideLeft
+[2021.09.23-02.28.14:156][944]LogAudioMixer: Display: 7: SideRight
+[2021.09.23-02.28.14:293][944]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VOID RGB Wireless Gaming Headset)
+[2021.09.23-02.28.14:293][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.23-02.28.14:293][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.23-02.28.14:293][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.23-02.28.14:293][944]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.23-02.28.14:293][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.23-02.28.14:293][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.09.23-02.28.14:306][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.23-02.28.14:307][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.23-02.28.14:307][944]LogInit: FAudioDevice initialized.
+[2021.09.23-02.28.14:307][944]LogAudio: Display: Audio Device (ID: 4) registered with world 'TutorialMap'.
+[2021.09.23-02.28.14:337][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.23-02.28.14:337][944]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.23-02.28.14:338][944]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2021.09.22-21.28.14
+[2021.09.23-02.28.14:338][944]LogWorld: Bringing up level for play took: 0.000480
+[2021.09.23-02.28.14:338][944]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.09.23-02.28.14:343][944]PIE: Server logged in
+[2021.09.23-02.28.14:344][944]PIE: Play in editor total start time 0.235 seconds.
+[2021.09.23-02.28.14:505][953]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.14:505][953]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.23-02.28.15:056][986]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.15:056][986]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.15:875][ 35]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.15:875][ 35]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.16:840][ 93]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.16:840][ 93]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.17:242][117]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.17:242][117]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.17:690][144]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.17:690][144]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.18:090][168]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.18:090][168]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.19:123][230]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.19:123][230]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.19:526][254]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.19:526][254]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.20:107][289]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.20:107][289]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.20:924][338]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.20:924][338]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.21:440][369]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.21:440][369]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.22:258][418]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.22:258][418]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.22:757][448]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.22:757][448]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.23:157][472]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.23:157][472]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.24:123][530]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.24:123][530]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.24:528][554]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.24:528][554]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.25:143][591]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.25:144][591]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.25:546][615]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.25:546][615]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.26:477][671]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.26:477][671]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.26:879][695]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.26:879][695]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.27:361][724]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.27:361][724]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.28:595][798]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.28:595][798]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.29:494][852]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.29:494][852]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.30:312][901]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.30:312][901]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.31:277][959]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.31:277][959]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.31:679][983]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.31:679][983]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.32:196][ 14]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.32:196][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.33:854][113]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.33:854][113]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.33:855][113]PIE: Warning: The widget 'WBP_Restart_C' was already added to the screen.
+[2021.09.23-02.28.35:553][215]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.35:553][215]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.36:372][264]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.36:372][264]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.36:887][295]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.36:887][295]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.38:527][393]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.38:527][393]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.40:393][505]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.40:393][505]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.40:794][529]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.40:794][529]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.41:277][558]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.41:277][558]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.42:931][657]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.42:931][657]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.43:396][685]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.43:396][685]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.43:797][709]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.43:797][709]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.44:264][737]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.44:264][737]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.45:487][810]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.45:487][810]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.45:987][840]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.45:987][840]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.48:473][989]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.48:473][989]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.49:187][ 32]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.49:187][ 32]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.49:589][ 56]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.49:589][ 56]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.50:437][107]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.50:437][107]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.51:671][181]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.51:671][181]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.52:154][210]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.52:154][210]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.55:462][408]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.55:462][408]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.57:001][500]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.57:001][500]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.57:404][524]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.57:404][524]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.57:884][553]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.57:884][553]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.58:285][577]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.58:285][577]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.58:734][604]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.58:734][604]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.28.59:136][628]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.28.59:136][628]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.28.59:609][656]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.28.59:609][656]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.00:010][680]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.00:010][680]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.00:509][710]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.00:509][710]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.02:160][809]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.02:160][809]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.02:693][841]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.02:693][841]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.04:344][940]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.04:344][940]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.04:777][966]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.04:777][966]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.06:844][ 90]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.06:844][ 90]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.07:310][118]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.07:310][118]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.12:295][417]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.12:295][417]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.12:877][452]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.12:877][452]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.17:862][751]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.17:862][751]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.18:345][780]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.18:345][780]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.21:245][954]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.21:245][954]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.22:194][ 11]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.22:194][ 11]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.23:845][110]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.23:845][110]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.24:327][139]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.24:327][139]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.27:641][337]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.27:641][337]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.28:124][366]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.28:124][366]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.29:776][465]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.29:776][465]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.30:259][494]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.30:259][494]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.31:909][593]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.31:909][593]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.32:391][622]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.32:391][622]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.32:793][646]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.32:793][646]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.33:642][697]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.33:642][697]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.38:628][996]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.38:628][996]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.39:458][ 46]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.39:458][ 46]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.39:859][ 70]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.39:859][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.40:342][ 99]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.40:342][ 99]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.41:576][173]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.41:576][173]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.42:009][199]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.42:009][199]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.43:243][273]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.43:243][273]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.43:725][302]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.43:725][302]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.45:378][401]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.45:378][401]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.45:859][430]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.45:859][430]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.46:260][454]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.46:260][454]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.47:026][500]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.47:026][500]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.47:844][549]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.47:844][549]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.48:692][600]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.48:692][600]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.49:916][673]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.49:916][673]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.50:431][704]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.50:431][704]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.52:503][828]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.52:503][828]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.53:002][858]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.53:002][858]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.54:236][932]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.54:236][932]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.55:018][979]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.55:018][979]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.55:839][ 28]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.55:839][ 28]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.56:352][ 59]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.56:352][ 59]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.29.56:753][ 83]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.29.56:753][ 83]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.29.57:969][156]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.29.57:969][156]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.01:691][379]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.01:691][379]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.02:958][455]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.02:958][455]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.05:026][579]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.05:026][579]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.05:824][627]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.05:824][627]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.06:227][651]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.06:227][651]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.06:741][682]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.06:741][682]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.07:558][731]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.07:558][731]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.08:008][758]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.08:008][758]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.08:409][782]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.08:409][782]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.08:875][810]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.08:875][810]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.10:527][909]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.10:527][909]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.10:941][934]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.10:941][934]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.13:846][108]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.13:846][108]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.14:346][138]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.14:346][138]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.14:747][162]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.14:747][162]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.15:212][190]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.15:212][190]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.17:697][339]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.17:697][339]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.18:495][387]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.18:495][387]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.20:563][511]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.20:563][511]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.21:028][539]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.21:028][539]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.22:269][613]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.22:269][613]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.23:335][677]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.23:335][677]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.23:736][701]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.23:737][701]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.24:518][748]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.24:518][748]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.27:003][896]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.27:003][896]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.27:529][928]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.27:529][928]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.27:930][952]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.27:930][952]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.28:430][982]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.28:430][982]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.37:164][506]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.37:164][506]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.38:379][579]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.38:379][579]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.38:782][603]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.38:782][603]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.39:647][655]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.39:647][655]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.48:386][178]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.48:386][178]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.49:734][259]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.49:734][259]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.53:888][508]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.53:888][508]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.54:387][538]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.54:387][538]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.30.54:788][562]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.30.54:788][562]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.30.55:237][589]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.30.55:237][589]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.31.01:460][962]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.31.01:460][962]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.31.01:908][989]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.31.01:908][989]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.31.04:800][162]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.31.04:800][162]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.31.05:282][191]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.31.05:282][191]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.31.06:934][290]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.31.06:934][290]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.31.07:433][320]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.31.07:433][320]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.31.10:337][494]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.31.10:337][494]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.31.11:236][548]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.31.11:236][548]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.31.12:053][597]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.31.12:053][597]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.31.12:519][625]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.31.12:519][625]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.31.14:171][724]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.31.14:171][724]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.31.14:736][758]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.31.14:736][758]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.31.15:137][782]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.31.15:137][782]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.31.15:653][813]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.23-02.31.15:653][813]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.23-02.31.17:720][937]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.23-02.31.17:720][937]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.09.23-02.31.19:600][ 47]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.23-02.31.19:608][ 47]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.23-02.31.19:636][ 47]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.23-02.31.19:636][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.31.19:645][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.23-02.31.19:649][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.23-02.31.19:662][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.23-02.31.19:662][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.23-02.31.19:681][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.09.23-02.31.19:757][ 47]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.23-02.31.19:758][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.09.23-02.31.21:462][146]LogSlate: Window 'Message Log' being destroyed
+[2021.09.23-02.31.21:468][146]LogSlate: Window 'Message Log' being destroyed
+[2021.09.23-02.31.33:017][264]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.23-02.31.42:930][830]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.23-02.31.49:483][221]BlueprintLog: New page: Compile BP_Player
+[2021.09.23-02.31.49:516][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.09.23-02.31.54:612][524]LogSavePackage: Moving '../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Saved/BP_PlayerF74420404951D08465986DB385102123.tmp' to '../../../../../../Users/jjjkr/Downloads/InfiniteMatrixCompleteProject/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2021.09.23-02.31.54:626][524]AssetCheck: New page: Asset Save: BP_Player
+[2021.09.23-02.31.54:626][524]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2021.09.23-02.31.55:466][575]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.23-02.31.55:472][575]LogSlate: Window 'BP_Player' being destroyed
+[2021.09.23-02.31.55:474][575]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.23-02.31.55:474][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
